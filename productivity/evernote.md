@@ -14,7 +14,9 @@ Instead of navigating via the sidebar, I set the sidebar to hidden and instead u
 * Keyboard navigation is faster than mouse navigation
 * I don't have to be overwhelmed by my notebook hierarchy all the time.
 
-\*\*\*
+## 
+
+
 
 
 
