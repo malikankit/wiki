@@ -2,7 +2,7 @@
 description: "Welcome to my personal wiki \U0001F44B"
 ---
 
-# Hello World - Start Here
+# Start Here
 
 I am a technologist from New Delhi, India.
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hello World - Start Here](README.md)
+* [Start Here](README.md)
 * [Product Management](product-management/README.md)
   * [Lean Product Checklist](product-management/lean-product-checklist.md)
 * [Blockchain And Decentralisation](blockchain-and-decentralisation.md)
