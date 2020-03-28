@@ -10,5 +10,3 @@ Click to view instructions to download your data from the following web services
 
 {% page-ref page="twitter.md" %}
 
-{% page-ref page="./" %}
-
