@@ -1,5 +1,5 @@
 ---
-description: Your online data belongs to you. Own a copy of it.
+description: Your online data belongs to you. Download it. Own it. Do more with it.
 ---
 
 # Data Ownership
