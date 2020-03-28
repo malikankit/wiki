@@ -7,4 +7,7 @@
 * [Web Development](web-development.md)
 * [Productivity](productivity/README.md)
   * [Evernote](productivity/evernote.md)
+* [Data Ownership](data-ownership/README.md)
+  * [Twitter](data-ownership/twitter.md)
+  * [Google](data-ownership/google.md)
 
