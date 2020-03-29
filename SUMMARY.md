@@ -6,8 +6,10 @@
 * [Blockchain And Decentralisation](blockchain-and-decentralisation.md)
 * [Web Development](web-development.md)
 * [Productivity](productivity/README.md)
+  * [My MacBook Setup](productivity/my-macbook-setup.md)
   * [Evernote](productivity/evernote.md)
 * [Backup All The Things](backup-all-the-things/README.md)
   * [Twitter](backup-all-the-things/twitter.md)
   * [Google](backup-all-the-things/google.md)
+* [Bookmarks](bookmarks.md)
 
